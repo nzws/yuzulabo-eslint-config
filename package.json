@@ -1,6 +1,6 @@
 {
   "name": "@yuzulabo/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shared eslint config for my projects.",
   "main": ".eslintrc.js",
   "repository": "https://github.com/yuzulabo/yuzulabo-eslint-config.git",

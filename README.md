@@ -1,4 +1,4 @@
-# yuzulabo-eslint-config
+# @yuzulabo/eslint-config
 
 > A shared [eslint](https://eslint.org/) config for my projects.
 
